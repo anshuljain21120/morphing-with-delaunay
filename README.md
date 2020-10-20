@@ -23,6 +23,7 @@ Python libraries needed for running the script:
 3. Triangulation will be displayed. To exit, press any key.
 4. The Code is executing and progress bar can be seen on the terminal.
 5. For video generation put the following code in the terminal - `ffmpeg -framerate 5 -i ./Morphing_Output/Frame_%d.jpg Morphing.mp4`
+6. For more clarity you can watch [this](https://github.com/anshuljain21120/morphing-with-delaunay/raw/main/Executing%20Morphing_with_Delaunay.mp4).
 
 ### Some examples
 **Basic** - `python3 Morphing_with_Delaunay.py ./Bush.jpg ./Clinton.jpg 5`
